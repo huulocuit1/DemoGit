@@ -5,3 +5,4 @@ Master--->NoiDung
 4.USER 2
 5.MASTER
 6.USER2
+7.USER1
