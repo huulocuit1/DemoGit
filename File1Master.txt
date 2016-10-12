@@ -1,6 +1,5 @@
 Master--->NoiDung
-<<<<<<< HEAD
 User1Edit
-=======
+
 Thay doi master
->>>>>>> 3f661d871cdbfa290b4cb8ecc4d9b7e9d5dadda2
+
