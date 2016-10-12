@@ -4,3 +4,4 @@ Master--->NoiDung
 3.nGUYEN tHI THU HA
 4.USER 2
 5.MASTER
+6.USER2
